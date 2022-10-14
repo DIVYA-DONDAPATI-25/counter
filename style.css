@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:  #65c7f7
+}
+.container{
+    margin: 100px auto;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(81, 25, 225);
+}
+p{
+    font-size: 5em;
+    color: rgb(15, 14, 14);
+}
+button{
+    border: none;
+    padding: 18px 10px;
+    font-size: 1.2em;
+    width: 180px;
+    margin: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:blue;
+    color: white;
+    transition: 0.4s;
+    border: none;
+}
